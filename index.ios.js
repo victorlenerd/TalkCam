@@ -4,5 +4,5 @@
  * @flow
  */
 import { AppRegistry } from 'react-native';
-import Root from './root';
-AppRegistry.registerComponent('TalkTalk', () => Root);
+import App from './App';
+AppRegistry.registerComponent('TalkTalk', () => App);
