@@ -1,5 +1,7 @@
 ## TalkCam App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/victorlenerd/TalkCam.svg)](https://greenkeeper.io/)
+
 Add Machine Learning To Your App: Recognising HandWritten Text From Notes. This React Native App Makes Use Of Microsoft Cognitive Service To Recognise Hand Written From Notes, Essay and e.t.c.
 
 Built With ReactNative, and Microsoft Cognitive Servie Computer Vison Api To Recognise Hand Written.
